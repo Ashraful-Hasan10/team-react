@@ -1,0 +1,31 @@
+.detailsimg1{
+    width: 150px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.detailsimg2{
+    width: 400px;
+    height: 300px;
+}
+.container{
+    width: 900px;
+    height:300px;
+    margin-left: 250px;
+    background-color: aqua;
+    
+    border:3px solid red;
+}
+.divImage{
+    float: right;
+
+}
+.detailParagraph{
+    width:1300px;
+    height:120px;
+    margin-top: 30px;
+    margin-left: 20px;
+    
+    
+}
